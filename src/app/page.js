@@ -28,7 +28,7 @@ export default function Home() {
 
         <Link
           className="flex items-center rounded-base border-2 font-base border-black bg-main px-10 py-3 text-[22px] shadow-base transition-all hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none m800:px-8 m800:py-2.5 m800:text-lg m400:px-6 m400:py-2 m400:text-base"
-          href={"/games"}
+          href={"/questions/1"}
         >
           Try Now
           <img
@@ -241,7 +241,7 @@ export default function Home() {
 
           <Link
             className="mt-[50px] flex font-base items-center rounded-base border-2 border-black bg-white px-10 py-3 text-[22px] shadow-base transition-all hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none m800:px-8 m800:py-2.5 m800:text-lg m400:px-6 m400:py-2 m400:text-base"
-            href={"/games"}
+            href={"/questions/1"}
           >
             Try Now
             <img
