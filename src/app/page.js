@@ -30,7 +30,7 @@ export default function Home() {
           className="flex items-center rounded-base border-2 font-base border-black bg-main px-10 py-3 text-[22px] shadow-base transition-all hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none m800:px-8 m800:py-2.5 m800:text-lg m400:px-6 m400:py-2 m400:text-base"
           href={"/games"}
         >
-          Play now
+          Try Now
           <img
             className="ml-[15px] w-[18px] m400:ml-4 m400:w-[15px]"
             src={arrow.src}
@@ -66,7 +66,7 @@ export default function Home() {
           className="flex items-center rounded-base border-2 font-base border-black bg-main px-10 py-3 text-[22px] shadow-base transition-all hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none m800:px-8 m800:py-2.5 m800:text-lg m400:px-6 m400:py-2 m400:text-base"
           onClick={login}
         >
-          Play now
+          Try Now
           <img
             className="ml-[15px] w-[18px] m400:ml-4 m400:w-[15px]"
             src={arrow.src}
@@ -243,7 +243,7 @@ export default function Home() {
             className="mt-[50px] flex font-base items-center rounded-base border-2 border-black bg-white px-10 py-3 text-[22px] shadow-base transition-all hover:translate-x-boxShadowX hover:translate-y-boxShadowY hover:shadow-none m800:px-8 m800:py-2.5 m800:text-lg m400:px-6 m400:py-2 m400:text-base"
             href={"/games"}
           >
-            Play now
+            Try Now
             <img
               className="ml-[15px] w-[18px] m400:ml-4 m400:w-[15px]"
               src={arrow.src}
